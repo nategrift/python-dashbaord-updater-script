@@ -1,7 +1,7 @@
 # Python Bot/CLI to do my work for me.
 
-`remove-all.py` is the main file that is used to remove the old dashbboard.
-`check-files.py` is used to scan the entire old dashbboard directory and what `blade` files are not repeated and can be deleted once the old one is gone. This is also included in the main python script when going through it tells me which ones I need to remove.
+- `remove-all.py` is the main file that is used to remove the old dashbboard.
+- `check-files.py` is used to scan the entire old dashbboard directory and what `blade` files are not repeated and can be deleted once the old one is gone. This is also included in the main python script when going through it tells me which ones I need to remove.
 
 ## Description
 
@@ -18,3 +18,5 @@ By me doing this project, I not only learned a ton about python (as I have only 
 ## NOTICE
 
 This is a public project to show off my work, however it will not work for anyone as they do not have the software I was editing, and if they do it might be different location.
+
+Folder should be a sibling to the `roomroster` folder. and the folder should be named `roomroster`
